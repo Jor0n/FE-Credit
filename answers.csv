@@ -1,0 +1,158 @@
+Category,Intent,Intent Detail,BOT Script - STEP 1,STEP 2,Code PEGA
+Kênh hỗ trợ,Thắc mắc kênh hỗ trợ,"KH chưa biết cách liên hệ để nhận hỗ trợ từ FE, giới thiệu chung","FECREDIT có thể hỗ trợ anh/chị qua nhiều kênh khác nhau: hỗ trợ qua điện thoại, trực tiếp tại quầy hoặc hỗ trợ qua email, chat trực tiếp trên ứng dụng. Anh chị cần em hướng dẫn cụ thể hơn về cách nào ạ?",,"HĐ đang tương tác là Loan: IL01-Thông tin chung
+HĐ đang tương tác là Card: IC01-Thông tin chung
+Không xác định: Dựa vào số tổng đài KH gọi (Loan/Card) để nhập"
+,hỗ trợ qua điện thoại,KH cần hướng dẫn cụ thể về kênh hotline,"Dạ, để liên hệ với trung tâm DVKH FECREDIT, anh/chị có thể gọi 1 trong 2 số tổng đài sau: Tổng đài sản phẩm vay 1900 6535, Tổng đài sản phẩm thẻ tín dụng 1900 6939
+Thời gian hỗ trợ của tổng đài từ 7 giờ đến 19 giờ. Với các vấn đề phản ánh, khiếu nại, trung tâm DVKH sẽ hỗ trợ anh/chị đến 21 giờ và hỗ trợ 24/7 với các vấn đề về sự cố thẻ tín dụng ạ.",,
+,hỗ trợ trực tiếp,KH cần hướng dẫn thời gian/địa điểm kênh hỗ trợ trực tiếp,"Hiện tại, FECREDIT có văn phòng hỗ trợ trực tiếp duy nhất tại địa chỉ Tòa nhà FECREDIT, Số 144 Cộng Hòa, Phường 12, Quận Tân Bình, thành phố Hồ Chí Minh
+Anh chị có thể đến trong các ngày từ thứ 2 đến  thứ 6 (trừ Lễ, Tết). Khung giờ hỗ trợ là Sáng: 8 giờ 30 đến 11 giờ 30, Chiều: 13 giờ 30 đến 16 giờ 30",,
+,hỗ trợ điện tử,KH cần cung cấp địa chỉ email DVKH hoặc các ứng dụng hỗ trợ điện tử,"Anh/chị có thể gửi yêu cầu hỗ trợ về địa chỉ: dichvukhachhang@fecredit.com.vn hoặc chat trực tiếp với nhân viên hỗ trợ qua các ứng dụng Zalo, FE ONLINE, Facebook, Website",,
+Kênh thanh toán,Thắc mắc kênh thanh toán,"KH chưa biết cách thanh toán cho khoản vay, giới thiệu chung các kênh thanh toán","FECREDIT hiện tại hỗ trợ thanh toán khoản vay linh hoạt qua nhiều hình thức: thanh toán tiền mặt, thanh toán online qua ứng dụng ngân hàng, ví điện tử, ứng dụng FE ONLINE. Anh chị cần em hướng dẫn cụ thể hơn về cách thanh toán nào ạ?",,"HĐ đang tương tác là Loan: IL02-Kênh thanh toán
+HĐ đang tương tác là Card: IC01-Kênh thanh toán
+Không xác định: Dựa vào số tổng đài KH gọi (Loan/Card) để nhập"
+,Thanh toán trực tiếp,KH muốn biết cách đóng tiền trực tiếp,"Anh/chị có thể thanh toán trực tiếp tại các cửa hàng như Thế giới di động, Điện Máy Xanh, Bách hóa xanh, FPT Shop, VNPT EPAY, Viettel, Cửa hàng tiện lợi, Bưu điện, các Ngân hàng, qua Máy nộp tiền tự động... trên toàn quốc.
+- Khi thanh toán cần ghi rõ và đầy đủ Số hợp đồng hoặc Số tài khoản thẻ
+- Sau khi thanh toán, Anh/chị vui lòng giữ lại hóa đơn/biên lai xác nhận giao dịch. Thời gian công ty nhận được tiền là trong 02 ngày làm việc (không tính thứ 7, chủ nhật và ngày lễ). ",,
+,Thanh toán chuyển khoản,KH muốn biết cách đóng tiền hình thức chuyển khoản,"Để thanh toán theo hình thức chuyển khoản, Anh/chị vui lòng lưu ý các thông tin sau:
+- Số tài khoản nhận của công ty là 6522 7557
+- Ngân hàng thụ hưởng là VPBank - chi nhánh Hội Sở
+- Tên tài khoản thụ hưởng là CÔNG TY TÀI CHÍNH TNHH NGÂN HÀNG VIỆT NAM THỊNH VƯỢNG SMBC
+- Đặc biệt, anh/chị lưu ý cần ghi đầy đủ số hợp đồng hoặc số tài khoản thẻ tín dụng vào nội dung thanh toán.
+- Sau khi thanh toán xong, anh/chị vui lòng chụp và giữ lại màn hình xác nhận giao dịch thành công.
+- Thời gian công ty nhận được tiền là trong 02 ngày làm việc (không tính thứ 7, chủ nhật và ngày lễ).",,
+,Thanh toán qua ví điện tử,KH muốn biết đóng tiền qua ví điện tử,"Anh/chị có thể thanh toán qua các ví điện tử như: Zalopay/ Smartpay/ Momo/ Payoo/ Viettel Pay.
+Trong các ứng dụng này, anh/chị chọn thanh toán cho khoản vay, chọn công ty FECREDIT, sau đó điền thông tin số hợp đồng hoặc căn cước công dân và thông tin thanh toán.
+- Sau khi thanh toán, Anh/chị vui lòng chụp và giữ lại màn hình xác nhận giao dịch thành công.
+- Thời gian công ty nhận được tiền là trong 02 ngày làm việc (không tính thứ 7, chủ nhật và ngày lễ).",,
+,Thanh toán qua FE ONLINE,KH muốn biết cách đóng tiền qua ứng dụng FEOL,"Anh/chị có thể dễ dàng thanh toán cho khoản vay/thẻ FE CREDIT trên ứng dụng FE ONLINE, bằng cách vào Appstore hoặc CH Play tìm và tải ứng dụng tên FE ONLINE. 
+Ứng dụng liên kết tài khoản ngân hàng của anh chị đang sử dụng, 
+-  Sau khi thanh toán, Anh/chị vui lòng chụp và giữ lại màn hình xác nhận giao dịch thành công.
+- Thời gian công ty nhận được tiền là trong 02 ngày làm việc (không tính thứ 7, chủ nhật và ngày lễ).",,
+Thông tin CIC,Thay đổi nhóm nợ,KH muốn biết cách thay đổi nhóm nợ,"Dạ, để được cập nhật lại nhóm nợ.
+- Đối với khoản vay dưới 10 triệu: Anh/chị cần thanh toán đúng hạn cho 1 kỳ góp tiếp theo
+- Đối với khoản vay trên 10 triệu: Anh/chị cần thanh toán đúng hạn cho 3 kỳ góp tiếp theo
+Khi Anh/chị thanh lý toàn bộ dư nợ, công ty sẽ ngưng báo cáo nhóm nợ, lịch sử tín dụng của Anh/chị sẽ cập nhật theo nhóm nợ cao nhất tương ứng với lịch sử thanh toán
+",,"HĐ đang tương tác là Loan: IL04-Thông tin liên quan CIC
+HĐ đang tương tác là Card: IC04-Thông tin liên quan CIC
+Không xác định: Dựa vào số tổng đài KH gọi (Loan/Card) để nhập"
+,Xóa nhóm nợ,KH muốn biết cách xóa nhóm nợ,"Dạ, 
+- Lịch sử nợ xấu phát sinh do lỗi khách hàng sẽ không thay đổi được.
+- Công ty không có chức năng xóa nhóm nợ, chỉ cập nhật theo lịch sử thanh toán tại thời điểm hiện tại của KH
+- Khách hàng không thể tự thay đổi lịch sử CIC, chỉ có những nơi phát sinh và cập nhật tình trạng CIC mới có thể thay đổi.
+- FE Credit sẽ hỗ trợ khách hàng thay đổi lịch sử CIC nếu lỗi sai xuất phát từ quy trình, hệ thống của FE credit",,
+,Yêu cầu CIC,KH thắc mắc về yêu cầu CIC khi duyệt hợp đồng vay,"Dạ, khi xét duyệt hồ sơ vay, có 2 thông tin lịch sử CIC cần xem xét:
+- Không có lịch sử nợ xấu tín dụng trong 05 năm gần nhất
+- Không có nợ cần chú ý trong vòng 12 tháng gần nhất
+Tùy theo chính sách của từng Ngân hàng, tổ chức tín dụng sẽ quyết định việc hồ sơ có được duyệt vay không",,
+Thông tin sản phẩm,Tư vấn sản phẩm vay,"KH chưa rõ về sản phẩm vay, cần tư vấn","FECREDIT hiện tại đang hỗ trợ khách hàng các khoản vay tiền mặt, vay mua xe trả góp, vay mua trả góp điện thoại điện máy và thẻ tín dụng. Anh/chị đang có nhu cầu về sản phẩm nào để em tư vấn cụ thể hơn ạ?",,IL03-Thông tin sản phẩm
+,Vay tiền mặt,KH cần tư vấn sản phẩm vay tiền mặt,"FE CREDIT đang triển khai sản phẩm vay tiền mặt với nhiều ưu đãi hấp dẫn như:
+- Hạn mức vay lên tới 70 triệu
+- Thủ tục vay đơn giản, không cần thế chấp tài sản
+- Thời hạn vay linh hoạt và phê duyệt nhanh
+- Giải ngân nhanh trong vòng 24 tiếng.
+Anh/chị có thể chủ động đăng ký vay tiền qua ứng dụng FE ONLINE, Zalo hoặc liện hệ tổng đài tư vấn để được hỗ trợ",,
+,Vay mua xe trả góp,KH cần tư vấn sản phẩm Vay mua xe trả góp,"FE CREDIT cung cấp sản phẩm vay mua xe máy với các ưu đãi hấp dẫn như:
+- Trả trước chỉ từ 0 đồng
+- Lãi suất hấp dẫn
+- Thủ tục vay đơn giản, không cần thế chấp tài sản
+- Thời hạn vay linh hoạt và phê duyệt nhanh
+Anh/chị hãy nhanh chóng đến cửa hàng gần nhất có liên kết với FE CREDIT như Honda,Yamaha, SYM,.. để được hỗ trợ nhé.",,
+,Vay trả góp điện thoại điện máy,KH cần tư vấn sản phẩm Vay mua điện thoại điện máy trả góp,"FE CREDIT cung cấp sản phẩm cho vay mua điện thoại - điện máy trả góp với các ưu đãi hấp dẫn như: 
+- Có thể hỗ trợ vay đến 100% giá trị sản phẩm
+- Lãi suất hấp dẫn
+- Thủ tục vay đơn giản, không cần thế chấp tài sản
+- Thời hạn vay linh hoạt và phê duyệt nhanh
+Anh/chị hãy nhanh chóng đến cửa hàng điện máy gần nhất có liên kết với FE CREDIT như TGDD, FPT, Nguyễn Kim,.. để được hỗ trợ nhé.",,
+,Thẻ tín dụng,KH cần tư vấn thông tin chung về thẻ tín dụng,"FE CREDIT có thể hỗ trợ anh/chị đăng ký mở thẻ tín dụng với nhiều dòng thẻ khác nhau được thiết kế phù hợp với các nhu cầu từ mua sắm hàng ngày, chi tiêu đột xuất đến việc sử dụng như một nguồn vốn kinh doanh nhỏ. Anh/chị có thể tham khảo thông tin về các dòng thẻ qua website fecredit.com.vn. Trường hợp mình muốn đăng ký mở thẻ, em sẽ hướng dẫn anh chị ạ",, IC03-Thông tin sản phẩm thẻ/PIN
+Đăng ký vay - mở thẻ,Tổng đài tư vấn vay,Khách hàng thắc mắc số tổng đài tư vấn vay,"Anh/chị có thể liên hệ để được tư vấn sản phẩm vay phù hợp qua các số tổng đài sau:
+- *5678: Thời gian hỗ trợ từ Thứ 2 đến Thứ 7 (08:00 - 18:00). Trừ các ngày Lễ/Tết.
+- (028) 39 111 555
+- (028) 35 51 6868
+Thời gian hỗ trợ của 2 TĐ trên: Từ Thứ 2 đến Thứ 6 (08:30-21:00); Thứ bảy, Chủ nhật (08:30-19:00). Trừ các ngày Lễ/Tết.",,RL25-Đăng ký vay
+,Không vay được,Thắc mắc vì sao không vay được,"Cảm ơn Anh/chị đã quan tâm đến dịch vụ của FECREDIT
+- Nếu có khoản vay phù hợp, nhân viên của Fe Credit sẽ chủ động liên hệ ngay để tư vấn và hỗ trợ làm hồ sơ cho Anh/chị
+- Trong trường hợp chưa có người liên hệ có thể vì chưa có khoản vay phù hợp với nhu cầu của Anh/chị, công ty vẫn lưu thông tin của Anh/chị và liên hệ lại ngay khi có khoản vay thích hợp",,
+,Điều kiện vay,KH thắc mắc điều kiện để có thể đăng ký vay,"Anh/chị có thể đăng ký vay tại FECREDIT khi thỏa mãn các điều kiện cơ bản sau:
+1. Có tuổi từ 20 – 60
+2. Thu nhập từ 3 triệu đồng/tháng
+3. Là công dân Việt Nam
+Ngoài ra, với từng sản phẩm vay riêng biệt sẽ có những yêu cầu khác nhau về thủ tục,  anh chị có thể liên hệ số tổng đài tư vấn vay để nhân viên tư vấn cụ thể hơn ạ",,
+,Đăng ký thẻ tín dụng,KH thắc mắc cách đăng ký thẻ tín dụng,"Hiện tại FECREDIT hỗ trợ Anh/chị mở thẻ thông qua ứng dụng FE ONLINE.
+Anh/chị vui lòng tải ứng dụng từ Appstore hoặc CH Play, đăng ký tài khoản và thực hiện theo hướng dẫn trên ứng dụng để yêu cầu cấp thẻ tín dụng",,RC25-Đăng ký mở thẻ
+Vấn đề giải ngân,Kênh giải ngân,KH hỏi về kênh giải ngân nhưng chưa rõ kênh nào,"FECREDIT hiện đang hỗ trợ giải ngân khoản vay qua các ngân hàng liên kết, các đối tác chi hộ như thế giới di động, FPT shop. Anh/chị muốn nhận giải ngân ở kênh nào để em có thể tư vấn cụ thể hơn ạ?",,"HĐ đang tương tác là Loan: IL10-Tình trạng/ thông tin hợp đồng
+HĐ đang tương tác là Card: IC25-Vấn đề giải ngân
+Không xác định: Dựa vào số tổng đài KH gọi (Loan/Card) để nhập"
+,Giải ngân qua ngân hàng,KH hỏi cách nhận giải ngân tại ngân hàng,"Sau khi khoản vay được duyệt và nhận được mã rút tiền qua SMS, Anh/chị có thể mang mã rút tiền, CCCD/CMND và số điện thoại đăng ký đến nhận giải ngân tại 1 trong các ngân hàng sau: VPBank, BIDV, Vietinbank
+Thời gian hỗ trợ giải ngân: giờ hành chính từ thứ 2 đến thứ 6 (Trừ các ngày Lễ/ Tết). Nếu gặp vấn đề về giải ngân, Anh/chị vui lòng gọi tổng đài số 19006535 hỗ trợ hợp đồng vay hoặc số 19006939 để được hỗ trợ về thẻ",,
+,"Giải ngân qua TGDĐ, ĐMX","KH hỏi cách nhận giải ngân tại TGDD, DMX","Sau khi khoản vay được duyệt và nhận được mã rút tiền qua SMS, Anh/chị có thể mang mã rút tiền, CCCD/CMND và số điện thoại đăng ký đến nhận giải ngân tại các cửa hàng thế giới di động hoặc điện máy xanh trên toàn quốc. Thời gian hỗ trợ giải ngân: từ 11h – 22h từ thứ 2 đến chủ nhật. Nếu gặp vấn đề về giải ngân, Anh/chị vui lòng gọi tổng đài số 19006535 hỗ trợ hợp đồng vay hoặc số 19006939 để được hỗ trợ về thẻ",,
+,Giải ngân qua FPT Shop,KH hỏi cách nhận giải ngân tại FPT Shop,"Sau khi khoản vay được duyệt và nhận được mã rút tiền qua SMS, Anh/chị có thể mang mã rút tiền, CCCD/CMND và số điện thoại đăng ký đến nhận giải ngân tại các cửa hàng FPT shop trên toàn quốc. Thời gian hỗ trợ giải ngân: 8h – 22h. Từ Thứ 2 đến chủ nhật (trừ các ngày lễ tết). Nếu gặp vấn đề về giải ngân, Anh/chị vui lòng gọi tổng đài số 19006535 hỗ trợ hợp đồng vay hoặc số 19006939 để được hỗ trợ về thẻ",,
+,Liên hệ sale,KH muốn liên hệ lại với nhân viên tư vấn,"Để liên hệ đến nhân viên tư vấn khoản vay, Anh/chị liên hệ 1 trong các số tổng đài sau:
+1. Tổng đài: *5678 Thời gian hỗ trợ từ Thứ 2 đến Thứ 7 (08:00 - 18:00). Trừ các ngày Lễ/Tết.
+2. Tổng đài (028) 39 111 555 hoặc số (028) 35 51 6868. Thời gian hỗ trợ: Từ Thứ 2 đến Thứ 6 (08:30-21:00); Thứ bảy, Chủ nhật (08:30-19:00). Trừ các ngày Lễ/Tết.",,
+Bảo hiểm,Thắc mắc bảo hiểm,Cần tư vấn bảo hiểm nhưng chưa rõ về sản phẩm,"FECREDIT hiện đang cung cấp các sản phẩm bảo hiểm như: bảo hiểm khoản vay, bảo hiểm sức khỏe.Anh/chị đang cần tư vấn thông tin về sản phẩm bảo hiểm nào ạ?",,"HĐ đang tương tác là Loan:IL13-Bảo hiểm
+HĐ đang tương tác là Card: IC13-Bảo hiểm
+Không xác định: Dựa vào số tổng đài KH gọi (Loan/Card) để nhập
+"
+,Bảo hiểm khoản vay,KH cần tư vấn về bảo hiểm khoản vay,"Dạ, Anh/chị đang quan tâm đến thông tin nào của bảo hiểm khoản vạy ạ? Em có thể tư vấn cho anh chị về lợi ích bảo hiểm, phí, thời hạn và điều kiện bồi thường",,
+,Bảo hiểm khoản vay> Lợi ích,KH cần tư vấn về Bảo hiểm khoản vay> Lợi ích,"Công ty bảo hiểm sẽ giúp trả nợ thay khi khách hàng gặp phải những rủi ro không lường trước được sau khi vay tiêu dùng tín chấp. Bảo hiểm này được mua dựa trên tinh thần tự nguyện của khách hàng, tuy nhiên công ty khuyến khích Anh/chị tham gia để đảm bảo cho việc thanh toán khoản vay, tránh ảnh hưởng đến người thân khi gặp những sự cố không mong muốn.",,
+,Bảo hiểm khoản vay> Phí bảo hiểm,KH cần tư vấn về Bảo hiểm khoản vay> Phí bảo hiểm,"Phí bảo hiểm khoản vay là 5.5% hoặc 7.5% tính trên giá trị khoản vay. Khoản  phí này được chia đều và cộng vào số tiền góp hàng tháng, Anh/chị chỉ cần thanh toán theo đúng lịch trả nợ đã được ký kết với FE CREDIT.",,
+,Bảo hiểm khoản vay> Thời hạn bảo hiểm,KH cần tư vấn về Bảo hiểm khoản vay> Thời hạn bảo hiểm,"Thời gian hiệu lực của bảo hiểm khoản vay trùng với thời hạn hợp đồng đã ký, nếu thanh lý sớm hợp đồng thì bảo hiểm cũng sẽ hết hiệu lực. Hiện tại FE CREDIT chưa hỗ trợ hủy bảo hiểm khoản vay nếu đã phát sinh.",,
+,Bảo hiểm khoản vay> Điều kiện bồi thường,KH cần tư vấn về Bảo hiểm khoản vay> Điều kiện bồi thường,"Khách hàng hoặc người thân khách hàng sẽ có thể làm thủ tục yêu cầu bồi thường nếu xảy ra 1 trong 3 sự kiện sau:
+1. Thương tật vĩnh viễn với tỷ lệ từ 81% trở lên
+2. Mất tích có chứng nhận địa phương
+3. Tử vong do tai nạn (trừ các trường hợp: mất do tự tử, bị nhiễm HIV/AIDS, sử dụng ma túy, tự ý sử dụng/hít các chất độc/khí gas…, tham gia các hoạt động bất hợp pháp, mất tích chưa có kết luận của Tòa án có thẩm quyền)",,
+,Bảo hiểm sức khỏe, KH cần tư vấn về bảo hiểm sức khỏe,"Dạ, Anh/chị đang quan tâm đến thông tin nào của bảo hiểm sức khỏe ạ, em có thể tư vấn cho anh/chị về đơn vị liên kết bảo hiểm, cách đăng ký, cách thanh toán hoặc các chi tiết về sản phẩm",,
+,Bảo hiểm sức khỏe > Đơn vị liên kết cung cấp bảo hiểm,KH cần tư vấn về Bảo hiểm sức khỏe > Đơn vị liên kết cung cấp bảo hiểm,"Hiện tại FECREDIT đang liên kết với các công ty bảo hiểm uy tín hàng đầu trên thị trường như Bảo Minh,  PVI,  Bảo Việt Life để cung cấp các sản phẩm bảo hiểm sức khỏe đến Anh/chị hàng",,
+,Bảo hiểm sức khỏe >Cách thức đăng ký,KH cần tư vấn về Bảo hiểm sức khỏe >Cách thức đăng ký,"Sau khi được nhân viên tư vấn, Anh/chị có thể tải ứng dụng IZION24 từ Appstore hoặc CH Play và thực hiện xác nhận theo hướng dẫn của nhân viên để đăng ký",,
+,Bảo hiểm sức khỏe >Cách thức thanh toán,KH cần tư vấn về Bảo hiểm sức khỏe >Cách thức thanh toán,"Anh/chị có thể linh hoạt thanh toán cho bảo hiểm sức khỏe qua 1 trong 3 cách sau:
+- Thanh toán bằng thẻ Fecredit: Anh/chị có thể chọn trả phí 1 lần hoặc chọn trả góp.
+- Thanh toán qua các kênh thu hộ: Anh/chị sẽ nhận được sms có mã code để thanh toán tại kênh thu hộ.
+- Thanh toán bằng tiền mặt (COD): nhân viên trực tiếp thu tiền khi giao hợp đồng bảo hiểm.",,
+,Bảo hiểm sức khỏe >Các thông tin về sản phẩm,KH cần tư vấn về Bảo hiểm sức khỏe >Các thông tin về sản phẩm,"Để được tư vấn chi tiết về thông tin sản phẩm, Anh/chị có thể liên hệ qua một trong các kênh sau:
+- Gọi đến tổng đài 19002809 nhấm phím 2 thời gian hỗ trợ từ thứ 2 – thứ 6 : Sáng từ 8:00 – 12:00, Chiều từ 13:00 – 17:30, Thứ 7: Sáng từ 9:00 – 12:00
+- Gửi email thắc mắc về địa chỉ hotrobaohiem@izion24.com.vn
+- Chat trực tiếp với nhân viên hỗ trợ của IZION24 qua Facebook, zalo hoặc ứng dụng IZION24",,
+Điều chỉnh thanh toán/Hoàn tiền,Thủ tục điều chỉnh thanh toán,KH thắc mắc các thông tin cần gửi qua email để điều chỉnh thanh toán,"Anh/chị vui lòng gửi mail về dichvukhachhang@fecredit.com.vn cung cấp đủ các thông tin sau:
+- Số tài khoản/ Số HĐ đúng:
+- Số tài khoản/ Số HĐ sai trong trường hợp mình ghi sai. Nếu anh chị không điền số HĐ thì bỏ qua thông tin này
+- Số CMND/ CCCD:
+- Họ tên chủ HĐ:
+- Ngày thanh toán:
+- Số tiền cần điều chỉnh:
+- Đính kèm biên lai/ màn hình thanh toán hợp lệ thể hiện đầy đủ các thông tin: số tiền, thời gian thanh toán, tài khoản nhận, nội dung chuyển tiền và mã giao dịch
+Anh/chị lưu ý các biên lai viết tay hoặc màn hình biến động số dư sẽ không được xem là biên lai hợp lệ ạ.",,"HĐ đang tương tác là Loan: IL12-Tiền dư/ hoàn tiền/ điều chỉnh thanh toán
+HĐ đang tương tác là Card: IC12-Tiền dư/ hoàn tiền/ điều chỉnh thanh toán
+Không xác định: Dựa vào số tổng đài KH gọi (Loan/Card) để nhập
+"
+,Thủ tục hoàn tiền,KH thắc mắc thông tin cần gửi qua email để hoàn tiền,"Anh/chị vui lòng gửi mail về dichvukhachhang@fecredit.com.vn cung cấp đủ các thông tin sau:
+- CCCD/CMND hoặc số hợp đồng
+- Số tiền yêu cầu hoàn
+- Địa điểm thanh toán của lần đóng tiền gần nhất
+- Nếu anh chị muốn nhận tiền hoàn qua tài khoản ngân hàng, cần cung cấp số tài khoản, tên ngân hàng, tên chi nhánh mở tài khoản và tên người thụ hưởng 
+- Bên cạnh đó, anh/chị vui lòng đính kèm ảnh CCCD/CMND mới nhất và biên lai thanh toán gần nhất hợp lệ
+Anh/chị lưu ý các biên lai viết tay hoặc màn hình biến động số dư sẽ không được xem là biên lai hợp lệ ạ.",,
+Kích hoạt thẻ,Thắc mắc kích hoạt thẻ,"Chưa biết kênh kích hoạt thẻ, giới thiệu","Anh/chị có thể kích hoạt thẻ tín dụng qua 1 trong 4 kênh sau:
+ứng dụng FE ONLINE, Website, Zalo FECREDIT, soạn tin nhắn SMS
+",,IC28- Kích hoạt thẻ
+,Kích hoạt qua FEOL,Qua FE ONLINE,"Anh/chị vui lòng tải ứng dụng từ Appstore hoặc CH Play, đăng ký tài khoản và thực hiện theo các bước sau:
+1. đăng nhập ứng dụng, vào trang thẻ tín dụng, chọn quản lý thẻ và chọn kích hoạt thẻ
+2. xác minh với chụp chân dung và nhận OTP để kích hoạt thẻ",,
+,Kích hoạt qua website,Qua Website,"Anh/chị vui lòng truy cập website fecredit.com.vn và thực hiện các bước sau:
+- Bước 1: Nhập CMND/CCCD => chọn “ĐĂNG NHẬP”
+- Bước 2: Nhập mã OTP 6 số được gửi đến số điện thoại đã đăng ký
+- Bước 3: Ở phần ""Quản lý thẻ"" chọn mục ""Kích hoạt thẻ""
+- Bước 4: Nhập 4 số cuối thẻ vật lý (Bắt đầu từ dãy số 5391xxxx, 3xxx in trên thẻ)
+- Bước 5: Nhập OTP 6 số gửi qua SMS, chọn “Xác nhận”.",,
+,Kích hoạt qua Zalo,Qua Zalo FECREDIT,"Anh/chị vui lòng tìm kiếm từ khóa ""FECREDIT"" và chọn quan tâm tài khoản có dấu tích màu vàng sau đó gõ vào ô chat chữ ""kích hoạt thẻ"" và làm theo hướng dẫn",,
+,Kích hoạt qua SMS,Qua SMS,Anh/chị vui lòng dùng đúng số điện thoại đăng ký thẻ soạn tin nhắn với nội dung AC<khoảng cách><04 số cuối thẻ> gửi 6088,,
+,Không kích hoạt thẻ được,KH thắc mắc vì sao kích hoạt thẻ không được,"Dạ, để kiểm tra và hỗ trợ tốt nhất cho anh chị vấn đề này, em xin phép chuyển cuộc gọi đến các bạn tổng đài viên để hỗ trợ ạ. Anh/chị vui lòng chờ máy trong giây lát",Action: Route to Agent,
+Điểm thưởng,Giải thích điểm thưởng,KH thắc mắc về định nghĩa điểm thưởng,"Dạ, điểm thưởng thẻ tín dụng FECREDIT là điểm được được tích lũy dựa vào các giao dịch hợp lệ do Anh/chị thực hiện qua thẻ.
+Điểm thưởng còn được gọi là điểm Ơi plus, sau khi tích lũy đủ số lượng, có thể quy đổi thành các quà tặng như tiền hoàn trực tiếp vào thẻ, thẻ cào điện thoại hoặc các voucher mua hàng",,IC03-Thông tin sản phẩm Thẻ/Pin
+,Cách tích điểm,KH thắc mắc làm thế nào tích lũy điểm Ơi,"Để tích lũy điểm Ơi, Anh/chị sử dụng thẻ tín dụng thực hiện thanh toán trực tiếp tại cửa hàng có máy quẹt thẻ, mua hàng trực tuyến qua các cổng thanh toán online hoặc sàn thương mại điện tử và rút tiền mặt tại máy ATM.
+Các giao dịch hợp lệ sẽ được tính thành điểm theo tỉ lệ quy đổi và cộng dồn sau khi chốt sao kê, anh/chị có thể tích lũy tối đa 200,000 điểm mỗi kỳ sao kê.",,
+,Thể lệ tích điểm,KH thắc mắc về thể lệ tích lũy điểm thưởng,"Thể lệ quy đổi điểm thưởng sẽ tùy thuộc vào dòng thẻ mà anh chị sử dụng. Để tư vấn chính xác cho vấn đề này, anh/chị có muốn em chuyển cuộc gọi đến các bạn tổng đài viên để kiểm tra cụ thể hơn không ạ?","Case 1: Khách hàng trả lời ""Có"" -> Route to Agent
+Case 2: Khách hàng trả lời ""Không"" -> Route to process ""Customer ask sth else?""",
+,Tỉ lệ quy đổi điểm,KH thắc mắc giá trị điểm thưởng quy đổi thành tiền là bao nhiêu,"Điểm Ơi của Anh/chị có thể được quy đổi thành giá trị quà tặng với tỉ lệ 1 Ơi = 1 Việt Nam đồng. Anh/chị cần tích lũy tối thiểu 50,000 điểm để thực hiện đổi quà. Với mỗi lần đổi điểm, giá trị quà sẽ là bội số của 50,000, tối đa 500,000 1 lần đổi điểm. 
+Ví dụ: Thẻ có 630,000 điểm thưởng, anh/chị có thể quy đổi thành 600,000 tiền hoàn vào thẻ, chia làm 2 lần đổi: 500,000 và 100,000 ạ",,
+,Hạn sử dụng điểm,KH thắc mắc điểm có hạn dùng là bao lâu,Điểm Ơi sẽ có giá trị sử dụng trong suốt thời gian thẻ của Anh/chị còn hiệu lực sử dụng trừ các trường hợp thẻ bị khóa hoặc vi phạm quy định của công ty,,
+,Cách đổi điểm,KH thắc mắc làm sao để đổi điểm thành quà ,"Để đổi điểm Ơi thành quà tặng, anh/chị có thể thực hiện qua mục đổi điểm của ứng dụng FE ONLINE, Website fecredit.com.vn hoặc bằng cách liên hệ tổng đài và yêu cầu nhân viên hỗ trợ đổi điểm",,
